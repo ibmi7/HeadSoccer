@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/Ball/ball1.png</file>
+        <file>Image/Ball/ball1_shaded.png</file>
+        <file>Image/Ball/ball2.png</file>
+        <file>Image/Ball/ball2_shaded.png</file>
+        <file>Image/Environment/goal_1.png</file>
+        <file>Image/Environment/goal_2.png</file>
+        <file>Image/Environment/grass.png</file>
+        <file>Image/Environment/sand.png</file>
+        <file>Image/Player/p1 idle.gif</file>
+        <file>Image/Player/p1 walk.gif</file>
+        <file>Image/Player/p2 idle.gif</file>
+        <file>Image/Player/p2 walk.gif</file>
+        <file>Image/Player/Parts(more HD but not annimated)/foot.png</file>
+        <file>Image/Player/Parts(more HD but not annimated)/P1.png</file>
+        <file>Image/Player/Parts(more HD but not annimated)/p2.png</file>
+        <file>Image/Environment/terrain_foot2.png</file>
+        <file>Image/Environment/terrain_foot3.png</file>
+    </qresource>
+</RCC>
